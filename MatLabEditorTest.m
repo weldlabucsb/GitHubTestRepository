@@ -3,4 +3,6 @@
 a = 123;
 b = 45;
 
-disp(num2str(a.^b));
+disp(num2str(a.^b));disp(num2str(a.^b));
+
+disp(num2str(a/b));
